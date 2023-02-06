@@ -1,4 +1,5 @@
-# KMeans-in-Penguins
+# KMeans-Clustering
+#### Penguin Data
 
 This code can be used as a base to create any unsupervised K-Means model. 
 
